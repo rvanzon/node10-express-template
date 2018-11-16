@@ -21,12 +21,8 @@ $ faas template pull https://github.com/openfaas-incubator/node10-express-templa
 $ faas new --lang node10-express
 ```
 
-## Using dev-server
-```
-$ cd ./template/node10-express
-$ npm install
-```
-Now go to directory of the function created in the step above 
+## Using the development server
+Go to directory of the function created in the step above 
 ```
 $ npm run serve
 ```
