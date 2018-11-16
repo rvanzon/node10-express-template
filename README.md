@@ -21,6 +21,15 @@ $ faas template pull https://github.com/openfaas-incubator/node10-express-templa
 $ faas new --lang node10-express
 ```
 
+## Using dev-server
+```
+$ cd ./template/node10-express
+$ npm install
+```
+Now go to new function created in the step abonve 
+```
+$ node ../template/node10-express/dev-server
+```
 ## Example usage
 
 ### Success and JSON body
