@@ -26,7 +26,7 @@ $ faas new --lang node10-express
 $ cd ./template/node10-express
 $ npm install
 ```
-Now go to new function created in the step abonve 
+Now go to directory of the function created in the step above 
 ```
 $ node ../template/node10-express/dev-server
 ```
