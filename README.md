@@ -28,7 +28,7 @@ $ npm install
 ```
 Now go to directory of the function created in the step above 
 ```
-$ node ../template/node10-express/dev-server
+$ npm run serve
 ```
 ## Example usage
 
